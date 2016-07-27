@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+  app:
+    image: react-redux-express-bp:latest
+    ports:
+      - 8080:3000
+    environment:
+      PORT: 3000

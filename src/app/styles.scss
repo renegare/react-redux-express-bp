@@ -1,0 +1,16 @@
+@import '~src/styles/globals';
+
+* {
+  font: {
+    family: Open Sans;
+    weight: lighter;
+
+  }
+}
+
+body {
+  font: {
+    size: 100%;
+  }
+  line-height: 1.5rem;
+}
